@@ -1,0 +1,56 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://sayu.cf/wordpress
+Data file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/education-base-2.xml
+Widget file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/education-base-2.wie
+Customizer file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/education-base-2.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - Serach - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Home Main Content Area : 
+
+AT Featured Page - No Title - Widget already exists
+AT About Section - About Us - Imported
+AT Course Section - Academics Departments  - Imported
+AT Course Section - Courses  - Imported
+AT Team Section - Our Team - Imported
+AT Testimonial Section - Testimonials  - Imported
+AT Gallery Section - Education Gallery - Imported
+AT Posts Column - Published Notice  - Widget already exists
+AT Contact Section - Contact Us Today - Widget already exists
+
+Footer Column One : 
+
+Navigation Menu - upcoming events - Widget already exists
+
+Footer Column Two : 
+
+Navigation Menu - Premium Themes - Widget already exists
+
+Footer Column Three : 
+
+Navigation Menu - Free Themes - Widget already exists
+
+Footer Column Four : 
+
+Navigation Menu - Important Links - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

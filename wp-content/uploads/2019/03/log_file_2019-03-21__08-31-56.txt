@@ -1,0 +1,49 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://sayu.cf/wordpress
+Data file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/demo-content-1.xml
+Widget file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/widgets-1.wie
+Customizer file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/customizer-1.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Widget already exists
+Search - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Navigation Menu - Links - Widget already exists
+Text - Text Widget - Widget already exists
+
+Topbar Left : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Widget already exists
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Links - Widget already exists
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

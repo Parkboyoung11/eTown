@@ -1,0 +1,92 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://sayu.cf/wordpress
+Data file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/education-base-3.xml
+Widget file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/education-base-3.wie
+Customizer file = /home/aki/WebDevelop/wordpress/wp-content/uploads/2019/03/education-base-3.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Education
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Education
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Serach - Imported
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Home Main Content Area : 
+
+AT Featured Page - No Title - Imported
+AT About Section - About Us - Imported
+AT Course Section - Academics Departments  - Imported
+AT Course Section - Courses  - Imported
+AT Team Section - Our Team - Imported
+AT Testimonial Section - Testimonials  - Imported
+AT Gallery Section - Education Gallery - Imported
+AT Posts Column - Published Notice  - Imported
+AT Contact Section - Contact Us Today - Imported
+
+Footer Column One : 
+
+Navigation Menu - upcoming events - Imported
+
+Footer Column Two : 
+
+Navigation Menu - Premium Themes - Imported
+
+Footer Column Three : 
+
+Navigation Menu - Free Themes - Imported
+
+Footer Column Four : 
+
+Navigation Menu - Important Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
