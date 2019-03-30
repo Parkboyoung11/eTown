@@ -1,0 +1,14 @@
+Version 1.1.1
+    Plugins updated
+
+Version 1.1
+    Plugins updated
+    WooCommerce pages added
+    The theme is now compatible with version WooCommerce 3.0 and higher
+    Demo data updated
+    Full screen video mode in Google Chrome fixed
+    Child theme updated
+    TGMPA fixed
+
+Version 1.0
+    Release

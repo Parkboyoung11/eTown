@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Education LMS Demo Import were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://sayu.cf/wordpress
+Data file = /home/aki/WebDevelop/wordpress/wp-content/themes/education-lms/assets/dummy-data/demo-content.xml
+Widget file = /home/aki/WebDevelop/wordpress/wp-content/themes/education-lms/assets/dummy-data/widgets.wie
+Customizer file = /home/aki/WebDevelop/wordpress/wp-content/themes/education-lms/assets/dummy-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Imported
+Search - No Title - Imported
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Navigation Menu - Links - Imported
+Text - Text Widget - Imported
+
+Topbar Left : 
+
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Links - Imported
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
