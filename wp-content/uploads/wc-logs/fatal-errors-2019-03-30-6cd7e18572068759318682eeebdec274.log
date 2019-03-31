@@ -1,0 +1,19 @@
+2019-03-30T15:04:47+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefrompng() in /home/aki/WebDevelop/wordpress/wp-content/plugins/js_composer/include/autoload/vc-image-filters.php:307
+Stack trace:
+#0 /home/aki/WebDevelop/wordpress/wp-content/plugins/js_composer/include/autoload/vc-image-filters.php(257): vc_get_gd_resource('/home/aki/WebDe...')
+#1 /home/aki/WebDevelop/wordpress/wp-includes/class-wp-hook.php(286): vc_media_editor_preview_image('')
+#2 /home/aki/WebDevelop/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/aki/WebDevelop/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/aki/WebDevelop/wordpress/wp-admin/admin-ajax.php(167): do_action('wp_ajax_vc_medi...')
+#5 {main}
+  thrown in /home/aki/WebDevelop/wordpress/wp-content/plugins/js_composer/include/autoload/vc-image-filters.php on line 307
+
+2019-03-30T15:04:49+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefrompng() in /home/aki/WebDevelop/wordpress/wp-content/plugins/js_composer/include/autoload/vc-image-filters.php:154
+Stack trace:
+#0 /home/aki/WebDevelop/wordpress/wp-includes/class-wp-hook.php(286): vc_media_editor_add_image('')
+#1 /home/aki/WebDevelop/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/aki/WebDevelop/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/aki/WebDevelop/wordpress/wp-admin/admin-ajax.php(167): do_action('wp_ajax_vc_medi...')
+#4 {main}
+  thrown in /home/aki/WebDevelop/wordpress/wp-content/plugins/js_composer/include/autoload/vc-image-filters.php on line 154
+
